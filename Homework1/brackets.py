@@ -16,4 +16,4 @@ str = "if (someValue > 7) { mas[6] = 7; }"
 if checkBrackets(str) == True:
 	print ("Check Passed.")
 else:
-	print ("Check Failed.")
+	print ("Check Failed.") 
